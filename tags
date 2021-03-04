@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BASE_PATH	src/screenshots.py	/^BASE_PATH = os.path.abspath(os.path.dirname(__file__))$/;"	v
+By	src/screenshots.py	/^from selenium.webdriver.common.by import By$/;"	i
+DOWNLOADS_PATH	src/screenshots.py	/^DOWNLOADS_PATH = os.path.abspath(os.path.join(Path.home(), "Downloads"))$/;"	v
+EC	src/screenshots.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	i
+FILE_INDEX_PATTERN	src/screenshots.py	/^FILE_INDEX_PATTERN = re.compile(r"^.*\\((?P<index>\\d+)\\).*$")$/;"	v
+Keys	src/screenshots.py	/^from selenium.webdriver.common.keys import Keys$/;"	i
+Path	src/screenshots.py	/^from pathlib import Path$/;"	i
+WebDriverWait	src/screenshots.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	i
+assembly_dir	src/screenshots.py	/^        assembly_dir = os.path.join(DOWNLOADS_PATH, assembly_name)$/;"	v
+assembly_name	src/screenshots.py	/^        assembly_name = input("Provide `name` and hit enter...: ")$/;"	v
+body	src/screenshots.py	/^        body = driver.find_element_by_tag_name("body")$/;"	v
+driver	src/screenshots.py	/^driver = webdriver.Firefox(firefox_profile=profile)$/;"	v
+forEach	docs/js/extra.js	/^    tables.forEach(function(table) {$/;"	f
+ignore_errors	src/screenshots.py	/^            ignore_errors=True,$/;"	v
+index	src/screenshots.py	/^            index = match.group("index")$/;"	v
+match	src/screenshots.py	/^            match = FILE_INDEX_PATTERN.match(os.path.split(file_path)[1])$/;"	v
+mime_types	src/screenshots.py	/^mime_types = [$/;"	v
+new_path	src/screenshots.py	/^            new_path = os.path.join(assembly_dir, f"{assembly_name}_{index}.jpg")$/;"	v
+os	src/screenshots.py	/^import os$/;"	i
+paths	src/screenshots.py	/^        paths = sorted(Path(DOWNLOADS_PATH).iterdir(), key=os.path.getmtime)$/;"	v
+profile	src/screenshots.py	/^profile = webdriver.FirefoxProfile()$/;"	v
+re	src/screenshots.py	/^import re$/;"	i
+repeats	src/screenshots.py	/^        repeats = int(360 \/ 15)$/;"	v
+shlex	src/screenshots.py	/^import shlex$/;"	i
+shutil	src/screenshots.py	/^import shutil$/;"	i
+subprocess	src/screenshots.py	/^import subprocess$/;"	i
+subscribe	docs/js/extra.js	/^app.document$.subscribe(function() {$/;"	f
+sys	src/screenshots.py	/^import sys$/;"	i
+time	src/screenshots.py	/^import time$/;"	i
+webdriver	src/screenshots.py	/^from selenium import webdriver$/;"	i
