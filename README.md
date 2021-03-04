@@ -1,6 +1,7 @@
 ## Installation
 
-[CAD(Fusion360)](https://a360.co/3uCLrpB)]
+[CAD(Fusion360)](https://a360.co/3uCLrpB)
+<p>
 Project Page
 
-![](assets/vcorepro.png)
+![](docs/assets/vcorepro.png)
