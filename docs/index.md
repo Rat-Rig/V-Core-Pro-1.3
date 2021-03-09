@@ -93,4 +93,4 @@ The V-Core Pro is the perfect printer for advanced users who like to tweak and t
 - [x] Frame is built on a modular platform of V-Slot profiles, which allow for endless possibilites when it comes to mounting all types of parts 
 - [x] Vast catalog of stand-alone parts available for infinite upgradeability: screws, nuts, connectors, brackets, pulleys, belts, electronics, etc 
 
-<center>[Order Now!](https://www.ratrig.com/v-core-3-pre-order.html){: .md-button .md-button--primary target=_blank }</center>
+<center>[Order Now!](https://www.ratrig.com/rat-rig-v-core-pro-upgrade-kit-from-v-core-pro-1-x-to-1-3.html){: .md-button .md-button--primary target=_blank }</center>
