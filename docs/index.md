@@ -4,6 +4,9 @@ hide:
   - navigation
 ---
 
+!!! question ""
+    V-Core 1 :fontawesome-solid-chevron-right: V-Core 2 :fontawesome-solid-chevron-right: V-Core Pro 1.0 :fontawesome-solid-chevron-right: V-Core Pro 1.1 :fontawesome-solid-chevron-right: V-Core Pro 1.2 :fontawesome-solid-chevron-right: **V-Core Pro 1.3** :fontawesome-solid-chevron-right: V-Core 3
+
 # V-Core Pro 1.3
 
 v1.3 is the final iteration of the V-Core Pro DIY CoreXY 3D Printer kit. 
@@ -51,9 +54,10 @@ v1.3 is available as an upgrade kit from v1.1 and v1.2 at www.ratrig.com.
 ![](assets/pillows.png)
 
 
-## EVA 2.2.0
+## EVA
 
-- [x] The EVA 2.2.0 Carriage System provides mounts for most popular extruder and hot end choices on the market (Bowden, BMG, Titan, Aero, Hemera, and more to come!)
+- [x] The EVA Carriage System provides mounts for most popular extruder and hot end choices on the market (Bowden, BMG, Titan, Aero, Hemera, and more to come!)
+- [x] Shipping with EVA 2.2.1
 
 ![](assets/EVA.png)
 
@@ -61,22 +65,24 @@ v1.3 is available as an upgrade kit from v1.1 and v1.2 at www.ratrig.com.
 !!! tip end "What is EVA?"
     EVA is an independently developed and maintained project that aims to be a single platform for many extrusion types.
 
-    **Dragon Hotend** and **Orbiter Extruder** support incoming!
+    **Copperhead** and **Bondtech LGX** support incoming!
 
     Note that not all print head types (due to their physical dimensions) can achieve the full 300x300 print space.
-
-![EVA Logo](assets/eva_logo.png){: align=left }
+    
+<img align="left" alt="EVA Logo" width="200" src="assets/eva_logo.png">
 EVA 2 is the next iteration of the EVA platform with which V-Core Pro is fully compatible. Most vivid improvements since the last iteration is the improved front belt clamp feature (no more zip ties!), improved contribution system, more ease of assembly, modular X endstop system, dedicated cable paths and shrouds (for ascetics).
 
-Read more about EVA on: [:octicons-octoface-16: EVA 2 Documentation](https://eva-3d.github.io/eva-main/)
+Read more about EVA on: [:octicons-octoface-16: EVA 2 Documentation](https://main.eva-3d.page/)
 
 
-## Support
+## Build guide
 
-- [x] Fully comprehensive step by step build guide
+- [x] Fully comprehensive step by step [build guide](https://ratrig.dozuki.com/c/Rat_Rig_V-Core_Pro_1.3)
 
 
-![](assets/guide.png)
+![](assets/buildguide1.3.png)
+
+## Community
 
 - [x] Join our <a href="https://www.facebook.com/groups/ratrig3dprintercommunity" target="_blank">Facebook 3D Printer Community</a> to connect with other V-Core users, share builds, knowledge, mods, and stay posted on all V-Core Pro developments.
 
@@ -94,3 +100,29 @@ The V-Core Pro is the perfect printer for advanced users who like to tweak and t
 - [x] Vast catalog of stand-alone parts available for infinite upgradeability: screws, nuts, connectors, brackets, pulleys, belts, electronics, etc 
 
 <center>[Order Now!](https://www.ratrig.com/rat-rig-v-core-pro-upgrade-kit-from-v-core-pro-1-x-to-1-3.html){: .md-button .md-button--primary target=_blank }</center>
+
+## CAD
+
+For the CAD 3D Model refer to: [:fontawesome-solid-folder-open: Fusion 360]( https://myhub.autodesk360.com/ue2b141fd/g/shares/SH56a43QTfd62c1cd96856b6c56275f6373a){ target="_blank" }
+
+
+## Printed Parts 
+
+The whole repository, with CAD files can be downloaded under the following link:  
+[:material-download-box: Download All](https://github.com/Rat-Rig/V-Core-Pro-1.3/archive/master.zip){: .md-button .md-button--primary}
+
+{{ printed_parts_bom("V-Core-Pro/bom/printed_parts.csv", "https://github.com/Rat-Rig/V-Core-Pro-1.3") }}
+
+## BOM 
+
+### Rat Rig V-Core Pro - Upgrade Kit from V-Core Pro 1.x to 1.3
+
+{{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - Base.csv") }}
+
+### FROM 1.2 (V-Core Pro 1.3 Upgrade kit)
+
+{{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - FROM 1.2.csv") }}
+
+### FROM 1.1 (V-Core Pro 1.3 Upgrade kit)
+
+{{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - FROM 1.1.csv") }}

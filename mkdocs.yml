@@ -1,13 +1,9 @@
-site_name: "Rat Rig - V-Core Pro"
+site_name: "V-Core-Pro"
 site_url: https://v-core3.ratrig.com/
 site_author: "Rat Rig"
 edit_uri: ""
 
 copyright: Copyright &copy; 2020 Rat Rig
-
-# repo_name: EVA-3D / eva-main
-# repo_url: https://github.com/EVA-3D/eva-main
-# version: 2.0.0
   
 theme:
   logo: assets/logo_rat_medium.png
@@ -28,6 +24,9 @@ plugins:
   - minify:
       minify_html: true
   - awesome-pages
+
+nav:
+  - index.md
 
 extra_css:
   - css/extra.css
@@ -74,3 +73,4 @@ markdown_extensions:
   - pymdownx.tilde
   - toc:
       permalink: true
+      toc_depth: 1
