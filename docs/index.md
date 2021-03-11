@@ -109,7 +109,7 @@ For the CAD 3D Model refer to: [:fontawesome-solid-folder-open: Fusion 360]( htt
 ## Printed Parts 
 
 The whole repository, with CAD files can be downloaded under the following link:  
-[:material-download-box: Download All](https://github.com/Rat-Rig/V-Core-Pro-1.3/archive/master.zip){: .md-button .md-button--primary}
+[:material-download-box: Download All](https://github.com/Rat-Rig/V-Core-Pro-1.3/archive/main.zip){: .md-button .md-button--primary}
 
 {{ printed_parts_bom("V-Core-Pro/bom/printed_parts.csv", "https://github.com/Rat-Rig/V-Core-Pro-1.3") }}
 

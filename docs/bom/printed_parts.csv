@@ -5,9 +5,9 @@ Z axis,Left Arm V1.0,1,/cad/01_essentials/Zaxis/STL/Left Arm V1.0.stl
 Z axis,Back Arm V1.0,1,/cad/01_essentials/Zaxis/STL/Back Arm V1.0.stl
 Z axis,Right Arm V1.0,1,/cad/01_essentials/Zaxis/STL/Right Arm V1.0.stl
 Z axis,Z Coupler Support V1.0,3,/cad/01_essentials/Zaxis/STL/Z Coupler Support V1.0.stl
-extras,Bed Cable Relief V1.0,1,/cad/02_extras/XYaxis/STL/Bed Cable Relief V1.0.stl
-extras,Back Cable Relief V1.0,1,/cad/02_extras/XYaxis/STL/Back Cable Relief V1.0.stl
-extras,MGN15 2020 Centering Tool V1.0,1,/cad/02_extras/XYaxis/STL/MGN15 2020 Centering Tool V1.0.stl
+extras,Bed Cable Relief V1.0,1,/cad/02_extras/STL/Bed Cable Relief V1.0.stl
+extras,Back Cable Relief V1.0,1,/cad/02_extras/STL/Back Cable Relief V1.0.stl
+extras,MGN15 2020 Centering Tool V1.0,1,/cad/02_extras/STL/MGN15 2020 Centering Tool V1.0.stl
 X & Y Axis,XY Joiner Right V1.0,1,/cad/01_essentials/XYaxis/STL/XY Joiner Right V1.0.stl
 X & Y Axis,XY Joiner Left V1.0,1,/cad/01_essentials/XYaxis/STL/XY Joiner Left V1.0.stl
 X & Y Axis,Corner Left V1.0,1,/cad/01_essentials/XYaxis/STL/Corner Left V1.0.stl
