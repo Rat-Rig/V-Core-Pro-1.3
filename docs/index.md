@@ -117,9 +117,13 @@ The whole repository, with CAD files can be downloaded under the following link:
 
 ### FROM 1.2 (V-Core Pro 1.3 Upgrade kit)
 
+[:material-table: CSV Format](https://github.com/Rat-Rig/V-Core-Pro-1.3/blob/7bb3d6c548a0327267b73f6375ee5a65981b94dc/docs/bom/V-Core%20Pro%201.3%20BOM%20-%20FROM%201.2.csv){: .md-button .md-button--primary target=_blank}
+
 {{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - FROM 1.2.csv") }}
 
 ### FROM 1.1 (V-Core Pro 1.3 Upgrade kit)
+
+[:material-table: CSV Format](https://github.com/Rat-Rig/V-Core-Pro-1.3/blob/7bb3d6c548a0327267b73f6375ee5a65981b94dc/docs/bom/V-Core%20Pro%201.3%20BOM%20-%20FROM%201.1.csv){: .md-button .md-button--primary target=_blank}
 
 {{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - FROM 1.1.csv") }}
 
