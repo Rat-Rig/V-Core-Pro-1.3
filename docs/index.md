@@ -13,11 +13,11 @@ v1.3 is the final iteration of the V-Core Pro DIY CoreXY 3D Printer kit.
 
 Developed on top of the v1.2 build, this version completely redesigns the Z axis of the machine to incorporate the 3 point kinematic bed feature which we introduced in the [V-Core 3](https://v-core3.ratrig.com/).
 
-v1.3 is available as an upgrade kit from v1.1 and v1.2 at www.ratrig.com.
+v1.3 is available as an upgrade kit from v1.1 and v1.2, which you can buy [here](https://www.ratrig.com/rat-rig-v-core-pro-upgrade-kit-from-v-core-pro-1-x-to-1-3.html){target=_blank}.
 
 ![](assets/vcorepro.png)
 
-## User Testimonies
+## User Testimonials
 
 >The new v1.3 comes with the most precise Z drive mechanism I ever found in a 3D printer. After one trim operation, the bed squareness is below 0.02mm on a 300x300 bed. It doesn't get better than that! Simple and clear: it is a huge improvement for the Z axis. The old concept with two rails on the sides never glided as smoothly as the new one - there was always a bit of friction in the rails which caused noise. I didn‘t know any better and thought it was standard for a machine with 3 z motors, and I was a bit skeptic about the new design. Now, after one month of operation, I know better. The new Z drive is smoother. It runs so silent I can be in the printer-room and don‘t notice the moving bed.
 
@@ -115,10 +115,6 @@ The whole repository, with CAD files can be downloaded under the following link:
 
 ## BOM 
 
-### Rat Rig V-Core Pro - Upgrade Kit from V-Core Pro 1.x to 1.3
-
-{{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - Base.csv") }}
-
 ### FROM 1.2 (V-Core Pro 1.3 Upgrade kit)
 
 {{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - FROM 1.2.csv") }}
@@ -126,3 +122,4 @@ The whole repository, with CAD files can be downloaded under the following link:
 ### FROM 1.1 (V-Core Pro 1.3 Upgrade kit)
 
 {{ hardware_bom("V-Core-Pro/bom/V-Core Pro 1.3 BOM - FROM 1.1.csv") }}
+
