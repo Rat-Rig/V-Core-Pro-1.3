@@ -28,7 +28,6 @@ QTY,SKU,Length (mm),Tap,Item name
 ,HW2177MK,,,V-Core Pro 1.3 Upgrade from 1.2: Z=500
 ,,,,
 ,B.O.M.,,,
-QTY,SKU,Length (mm),Tap,Item name
 1,HW2173MK,,,V-Core Pro 1.3 Upgrade: Base parts kit
 1,HW1825GC,,,Linear Rail - MGN15 600mm + MGN15C carriage
 1,HW201BRC,660,,V-SLOT 2020 - Black Anodized 1000mm
@@ -58,7 +57,9 @@ QTY,SKU,Length (mm),Tap,Item name
 27,HW1030NC,,,T-Nut - Drop In for 2020 - M5 (Single)
 15,HW1665NC,,,T-Nut - Drop In for 2020 - M3 (Single)
 4,HW1083BC,,,Corner Connector - 90 Degree Angle
-6,HW1074NC,,,Mini Precision Shim - 8 x 5 x 1mm
+6,HW1126NC,,,Precision Shim - 10 x  5 x 1mm
 3,HW2127GC,,,Magnet - 20 x 10 x 5mm - Two hole (M3 Countersink screws)
 6,HW2137SC,,,Countersink Screw M3 (Single) (Length: 20mm)
 8,HW1251NC,,,Hex Locking Nut - M3
+,,,,
+,,,,

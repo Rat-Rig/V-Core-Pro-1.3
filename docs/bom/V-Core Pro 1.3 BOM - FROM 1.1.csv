@@ -1,4 +1,3 @@
-,,,,
 ,SKU,,,Product Name
 ,HW2181MK,,,V-Core Pro 1.3 Upgrade from 1.1: Z=300
 ,,,,
@@ -23,7 +22,6 @@ QTY,SKU,Length (mm),Tap,Item name
 1,HW2173MK,,,V-Core Pro 1.3 Upgrade: Base parts kit
 1,HW2188MK,,,V-Core Pro 1.3 Upgrade: Common Parts from 1.1
 2,HW1822GC,,,Linear Rail - MGN15 500mm + MGN15C carriage
-2,HW1647SC,470,,8mm Metric Acme Lead Screw - 1000mm
 1,HW1647SC,450,,8mm Metric Acme Lead Screw - 1000mm
 1,HW1021GC,,,Anti-Backlash Nut Block for 8mm Metric Acme Lead Screw
 1,HW1001GC,,,Flexible Coupling - 5mm x 8mm
@@ -39,12 +37,13 @@ QTY,SKU,Length (mm),Tap,Item name
 1,HW2173MK,,,V-Core Pro 1.3 Upgrade: Base parts kit
 1,HW2188MK,,,V-Core Pro 1.3 Upgrade: Common Parts from 1.1
 2,HW1825GC,,,Linear Rail - MGN15 600mm + MGN15C carriage
-2,HW1647SC,570,,8mm Metric Acme Lead Screw - 1000mm
 1,HW1647SC,550,,8mm Metric Acme Lead Screw - 1000mm
 1,HW1021GC,,,Anti-Backlash Nut Block for 8mm Metric Acme Lead Screw
 1,HW1001GC,,,Flexible Coupling - 5mm x 8mm
 1,HW201BRC,594,,V-SLOT 2020 - Black Anodized 1000mm
 1,HW201BRC,660,,V-SLOT 2020 - Black Anodized 1000mm
+,,,,
+,,,,
 ,SKU,,,Product Name
 ,HW2188MK,,,V-Core Pro 1.3 Upgrade: Common Parts from 1.1
 ,,,,
