@@ -5,10 +5,14 @@ Z axis,Left Arm V1.0,1,/cad/01_essentials/Zaxis/STL/Left Arm V1.0.stl
 Z axis,Back Arm V1.0,1,/cad/01_essentials/Zaxis/STL/Back Arm V1.0.stl
 Z axis,Right Arm V1.0,1,/cad/01_essentials/Zaxis/STL/Right Arm V1.0.stl
 Z axis,Z Coupler Support V1.0,3,/cad/01_essentials/Zaxis/STL/Z Coupler Support V1.0.stl
+Z axis,MGN15 2020 Centering Tool V1.0,1,/cad/01_essentials/Zaxis/STL/MGN15 2020 Centering Tool V1.0.stl
 X & Y Axis,XY Joiner Right V1.0,1,/cad/01_essentials/XYaxis/STL/XY Joiner Right V1.0.stl
 X & Y Axis,XY Joiner Left V1.0,1,/cad/01_essentials/XYaxis/STL/XY Joiner Left V1.0.stl
 X & Y Axis,Corner Left V1.0,1,/cad/01_essentials/XYaxis/STL/Corner Left V1.0.stl
 X & Y Axis,Corner Right V1.0,1,/cad/01_essentials/XYaxis/STL/Corner Right V1.0.stl
 extras,Bed Cable Relief V1.0,1,/cad/02_extras/STL/Bed Cable Relief V1.0.stl
 extras,Back Cable Relief V1.0,1,/cad/02_extras/STL/Back Cable Relief V1.0.stl
-extras,MGN15 2020 Centering Tool V1.0,1,/cad/02_extras/STL/MGN15 2020 Centering Tool V1.0.stl
+extras,spool_holder_2020_arm_v2_rr,1,/cad/02_extras/STL/spool_holder_2020_arm_v2_rr.stl
+extras,spool_holder_guide,1,/cad/02_extras/STL/spool_holder_guide.stl
+extras,spool_holder_knob,1,/cad/02_extras/STL/spool_holder_knob.stl
+extras,spool_holder_screw_80mm,1,/cad/02_extras/STL/spool_holder_screw_80mm.stl
