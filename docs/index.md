@@ -113,6 +113,11 @@ The whole repository, with CAD files can be downloaded under the following link:
 
 {{ printed_parts_bom("V-Core-Pro/bom/printed_parts.csv", "https://github.com/Rat-Rig/V-Core-Pro-1.3") }}
 
+### EVA
+
+<img align="right" alt="EVA Logo" width="100" src="../assets/eva_logo.png">
+To download the most recent EVA parts go to https://main.eva-3d.page/, but if you are looking at stable parts that are tested by Rat Rig you can find those here: https://github.com/EVA-3D/eva-main/tree/2.2.1
+
 ## BOM 
 
 ### FROM 1.2 (V-Core Pro 1.3 Upgrade kit)
